@@ -5,4 +5,6 @@ M1 Introduction week Hackathon, provided by Eleven Strategy - Using machine lear
 Data is processed within a [Feature engineering](feature_engineering.py) function. We then had a first attempt at a [linear model](theme_park_linear.py) with a RMSE stalling at 9.54. Our final model was powered by [XGBoost](theme_park_xgb.py) lowered the RMSE to 8.81.
 
 
-![Uploading Screenshot 2025-09-12 at 11.05.10.jpg…]()
+<img width="650" height="365" alt="Screenshot 2025-09-12 at 11 05 10" src="https://github.com/user-attachments/assets/f65309af-9270-4ffc-bf0e-1f6800c93685" />
+
+
